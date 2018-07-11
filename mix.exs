@@ -39,7 +39,7 @@ defmodule Wltx.Mixfile do
       {:postgrex, ">= 0.0.0"},
       {:phoenix_html, "~> 2.10"},
       {:phoenix_live_reload, "~> 1.0", only: :dev},
-      {:credo, "~> 0.9.0-rc1", only: [:dev, :test], runtime: false},
+      {:credo, "~> 0.9.1", only: [:dev, :test], runtime: false},
       {:timex, "~> 3.1"},
       {:geo, "~> 2.0"},
       {:geo_postgis, "~> 1.0"},
