@@ -1,5 +1,6 @@
-# TODO
+# Setup
 
+- Install Postgres and Elixir
 - Clone the repository
 - Install the PostGIS
 - Run the database setup script from `sql/database.sql`
